@@ -1,0 +1,13 @@
+module.exports=
+{
+    hardeep:function(){
+        return("Singh");
+    }
+    ,
+    sourav:function(){
+        return("burnwal")
+    },
+    sayan:function(){
+        return("singha");
+    }
+}
